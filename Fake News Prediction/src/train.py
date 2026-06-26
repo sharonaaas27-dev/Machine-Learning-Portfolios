@@ -3,7 +3,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 import joblib
 import os
-
+from sklearn.metrics import classification_report, confusion_matrix
 from features import X, y, vectorizer
 
 
@@ -14,7 +14,6 @@ model = LogisticRegression(max_iter=1000, class_weight='balanced')
 model.fit(X_train, y_train)
 
 # evaluate on test set and print classification report
-from sklearn.metrics import classification_report, confusion_matrix
 y_test_pred = model.predict(X_test)
 print("Confusion matrix (test):")
 print(confusion_matrix(y_test, y_test_pred))

@@ -1,0 +1,52 @@
+[2026-03-04 22:30:20,005] INFO - 🔁 Loading data...
+[2026-03-04 22:30:20,006] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2026-03-04 22:30:37,533] INFO - 🔁 Loading data...
+[2026-03-04 22:30:37,533] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2026-03-04 22:31:25,806] INFO - 🔁 Loading data...
+[2026-03-04 22:31:26,376] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'cosine_sim.pkl'
+[2026-03-04 22:31:39,393] INFO - 🔁 Loading data...
+[2026-03-04 22:31:40,817] INFO - ✅ Data loaded successfully.
+[2026-03-04 22:32:20,278] INFO - 🔁 Loading data...
+[2026-03-04 22:32:21,752] INFO - ✅ Data loaded successfully.
+[2026-03-04 22:32:47,774] INFO - 🎵 Recommending songs for: 'Chorus By Carl Thomas 4x..music fades out]'
+[2026-03-04 22:32:47,806] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:33:02,589] INFO - 🎵 Recommending songs for: 'Oh I thought we had forever, now it's gone   It's time to carry on   I thought that you made me happy   But it's this thing that's come between us girl   At one time you were my world   Now it seems it's gone away, gone away     '
+[2026-03-04 22:33:02,593] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:33:14,627] INFO - 🎵 Recommending songs for: 'The Notorious B.I.G.'
+[2026-03-04 22:33:14,632] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:34:03,001] INFO - 🎵 Recommending songs for: 'On And On And On'
+[2026-03-04 22:34:03,006] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:34:21,051] INFO - 🎵 Recommending songs for: 'Under Attack'
+[2026-03-04 22:34:21,056] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:34:35,072] INFO - 🎵 Recommending songs for: 'Someone Like You'
+[2026-03-04 22:34:35,106] INFO - ✅ Top 10 recommendations ready.
+[2026-03-04 22:34:48,136] INFO - 🎵 Recommending songs for: 'Pandora's Box'
+[2026-03-04 22:34:48,139] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:34:59,633] INFO - 🎵 Recommending songs for: 'Chiquitita'
+[2026-03-04 22:34:59,637] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:35:08,599] INFO - 🎵 Recommending songs for: 'Agnetha, Frida Early this morning I drove in the rain   Out to the airport to get on the plain   Hey Honolulu, I'm going to happy Hawaii   Alice has been there, she said it was fun      Swimming and surfing, enjoying the sun   Hey Honolulu, I'm going to happy Hawaii   After all I had to go through, I'm making no plans   But I, but I believe love gives me a second chance      Guess I've been working a little to hard   Need a vacation, I'll send you a card   From Honolulu, a greeting from happy Hawaii   It's so exciting, why should I pretend      In a few hours the plane will descend   Hey Honolulu, I'm going to happy Hawaii   I can imagine the beach and the sand   Walking with someone and holding his hand      Hey Honolulu, I'm going to happy Hawaii   After all I had to go through, I'm making no plans   But I, but I believe love gives me a second chance   I've got a feeling, the dream will come true      Someone is waiting and I forget you   Hey Honolulu, I'm going to happy Hawaii'
+[2026-03-04 22:35:08,603] WARNING - ⚠️ Song not found in dataset.
+[2026-03-04 22:35:18,235] INFO - 🎵 Recommending songs for: 'Just A Notion'
+[2026-03-04 22:35:18,268] INFO - ✅ Top 10 recommendations ready.
+[2026-03-04 23:37:43,178] INFO - 🔁 Loading data...
+[2026-03-04 23:37:44,772] INFO - ✅ Data loaded successfully.
+[2026-03-04 23:40:27,047] INFO - 🔁 Loading data...
+[2026-03-04 23:40:27,756] INFO - ✅ Data loaded successfully.
+[2026-03-04 23:40:27,967] INFO - 🎵 Recommending songs for: 'Just A Notion'
+[2026-03-04 23:40:28,018] INFO - ✅ Top 1 recommendations ready.
+[2026-03-04 23:40:31,959] INFO - 🎵 Recommending songs for: 'Just A Notion'
+[2026-03-04 23:40:31,996] INFO - ✅ Top 3 recommendations ready.
+[2026-03-04 23:40:49,654] INFO - 🎵 Recommending songs for: 'Just A Notion'
+[2026-03-04 23:40:49,700] INFO - ✅ Top 20 recommendations ready.
+[2026-03-04 23:41:01,512] INFO - 🎵 Recommending songs for: 'Who's Right, Who's Wrong'
+[2026-03-04 23:41:01,556] INFO - ✅ Top 20 recommendations ready.
+[2026-03-04 23:42:06,555] INFO - 🎵 Recommending songs for: 'Who's Right, Who's Wrong'
+[2026-03-04 23:42:06,593] INFO - ✅ Top 20 recommendations ready.
+[2026-03-04 23:42:48,535] INFO - 🔁 Loading data...
+[2026-03-04 23:42:49,809] INFO - ✅ Data loaded successfully.
+[2026-03-04 23:42:54,190] INFO - 🎵 Recommending songs for: 'Who's Right, Who's Wrong'
+[2026-03-04 23:42:54,251] INFO - ✅ Top 10 recommendations ready.
+[2026-03-04 23:46:27,094] INFO - 🔁 Loading data...
+[2026-03-04 23:46:28,152] INFO - ✅ Data loaded successfully.
+[2026-03-04 23:46:37,609] INFO - 🎵 Recommending songs for: 'Who's Right, Who's Wrong'
+[2026-03-04 23:46:37,646] INFO - ✅ Top 10 recommendations ready.

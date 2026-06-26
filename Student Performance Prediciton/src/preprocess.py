@@ -5,7 +5,7 @@ import joblib
 import os
 
 
-def load_data(path: str) -> pd.DataFrame:
+def load_data(path) -> pd.DataFrame:
     return pd.read_csv(path)
 
 def preprocess_and_save_encoders(df):

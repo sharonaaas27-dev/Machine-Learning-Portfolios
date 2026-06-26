@@ -18,7 +18,7 @@ def predict_news(text):
     else:
         return "Real News"
     
-# Example usage
+
 new_article = "Breaking: New study shows that drinking water can cure all diseases!"
 result = predict_news(new_article)
 print(f"The article is predicted to be: {result}")

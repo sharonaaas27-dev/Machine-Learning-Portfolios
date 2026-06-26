@@ -8,7 +8,6 @@ model = joblib.load("models/model.pkl")
 
 st.title("🎓 Student Final Grade Predictor")
 
-# Simple inputs (for demo)
 age = st.number_input("Age", min_value=15, max_value=25)
 studytime = st.slider("Study Time (1-4)", 1, 4)
 failures = st.slider("Failures", 0, 4)

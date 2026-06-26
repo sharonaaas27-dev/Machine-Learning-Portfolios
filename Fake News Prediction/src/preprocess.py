@@ -1,28 +1,24 @@
+
 import pandas as pd
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import nltk
 import re
+import os
 
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('punkt')
 
-df = pd.read_csv('data/FakeNewsNet.csv')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, '..', 'data', 'FakeNewsNet.csv')     
 
-print(df.head())
-print(df.info())
-print(df.shape)
-print(df.isnull().sum())
+
+df = pd.read_csv(DATA_PATH)
 
 
 df = df.dropna(subset=['news_url'])
 df['source_domain'] = df['source_domain'].fillna('unknown')
-
-print(df.head())
-print(df.info())
-print(df.shape)
-print(df.isnull().sum())
 
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
