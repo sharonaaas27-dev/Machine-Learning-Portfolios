@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+node_modules/
+dist/
+build/
+*.pkl
+*.db
+.DS_Store
+backend/datasets/ml-latest-small/
+*.zip
+.env
+backend/.env
+backend/movie_recommender.db
